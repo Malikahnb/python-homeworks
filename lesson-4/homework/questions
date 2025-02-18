@@ -1,0 +1,20 @@
+2. What is the difference between the continue and break statements in Python?
+ Break - this function completely stops the loop
+ Continue - this function just skips one iteration and moves to the next iteration. It doesn't stop the loop
+
+3. Can you explain the difference between for loop and while loop?
+We can use for loop if we know how many iterations we need to make.
+And 'while' can be used for the situations where we don't know how many exactly iterations we will have in our function
+
+4. How would you implement a nested for loop system? Provide an example.
+Well, nested loop is a loop inside the loop. Often used to create matrices.
+
+Example:
+'''
+rows = 5
+for i in range(1, rows + 1):
+    for j in range(i):
+        print("*", end=" ")
+    print()
+
+  '''
