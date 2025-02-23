@@ -1,0 +1,6 @@
+Word Count Report
+Total Words: 69
+Top Words:
+ut - 3
+in - 3
+dolor - 2
